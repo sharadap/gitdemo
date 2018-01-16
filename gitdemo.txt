@@ -1,0 +1,568 @@
+    1  pwd
+    2  ls
+    3  free
+    4  clear
+    5  ls
+    6  pwd
+    7  ls -al
+    8  cd public_html/
+    9  ls
+   10  whoami
+   11  ps
+   12  ls
+   13  ls -la
+   14  cd public_html/
+   15  ls
+   16  cd ..
+   17  w
+   18  pwd
+   19  cd
+   20  ls
+   21  df -h
+   22  ls
+   23  cd public_html/
+   24  ls
+   25  crontab -l
+   26  exit
+   27  ls
+   28  w
+   29  users
+   30  who
+   31  ls -ltr
+   32  crontab 
+   33  clear
+   34  top 
+   35  top -u techyon
+   36  grep techyon /etc/passwd
+   37  lsof
+   38  last techyon
+   39  free -m
+   40  df -h
+   41  tcpd
+   42  man tcpd
+   43  clear
+   44  sudo -i
+   45  ls
+   46  httpd 
+   47  sudo httpd
+   48  httpd start
+   49  clear
+   50  apt-get install tcpdump
+   51  exit
+   52  LS
+   53  ls
+   54  cat Result.txt 
+   55  clear
+   56  https://aws.amazon.com/amazon-linux-ami/2017.03-release-notes/
+   57  23 package(s) needed for security, out of 32 available
+   58  Run "sudo yum update" to apply all updates.
+   59  [techyon@ip-192-168-0-103 ~]$ LS
+   60  -bash: LS: command not found
+   61  e or directory
+   62  [techyon@ip-192-168-0-103 ~]$ 23 package(s) needed for security, out of 32 available
+   63  -bash: syntax error near unexpected token `('
+   64  [techyon@ip-192-168-0-103 ~]$ Run "sudo yum update" to apply all updates.
+   65  -bash: Run: command not found
+   66  [techyon@ip-192-168-0-103 ~]$ [techyon@ip-192-168-0-103 ~]$ LS
+   67  -bash: [techyon@ip-192-168-0-103: command not found
+   68  [techyon@ip-192-168-0-103 ~]$ -bash: clear
+   69  clear
+   70  netstat
+   71  exit
+   72  clear
+   73  ls
+   74  cd public_html/
+   75  ls
+   76  cd himtarang.com/
+   77  ls
+   78  vi index.html
+   79  ls
+   80  ls -al
+   81  chmod 777 index.html
+   82  ls
+   83  cd public_html/
+   84  cd himtarang.com/
+   85  ls
+   86  ls -al
+   87  exit
+   88  clear
+   89  ls
+   90  cd public_html/
+   91  ls
+   92  cd himtarang.com/
+   93  ls
+   94  vi index.html 
+   95  clear
+   96  ls
+   97  pwd
+   98  clear
+   99  ls
+  100  exit
+  101  clear
+  102  uname
+  103  clea
+  104  clear
+  105  pwd
+  106  ls
+  107  cd public_html/
+  108  ls
+  109  ls -al
+  110  cd himtaran.com/
+  111  ls -al
+  112  dir
+  113  clear
+  114  ls
+  115  cd ..
+  116  cd himtarang.com/
+  117  ls
+  118  vi index.html 
+  119  ls
+  120  clear
+  121  lshw
+  122  sudo lshw
+  123  tcpdump
+  124  ls
+  125  ls -al
+  126  clear
+  127  who
+  128  w
+  129  pwd
+  130  ls
+  131  sudo yum update
+  132  clear
+  133  lshw
+  134  lscpu
+  135  clear
+  136  whoami
+  137  m
+  138  mem
+  139  cat /proc/meminfo 
+  140  clear
+  141  vmstat -s
+  142  htop
+  143  top
+  144  clear
+  145  tcpdump
+  146  sudo apt-get install tcpdump
+  147  sudo yum install tcpdump
+  148  clear
+  149  tcpdump
+  150  sudo yum tcpdump
+  151  tcpdum -eth0
+  152  tcpdump -eth0
+  153  tcpdump -i eth0
+  154  ifconfig 
+  155  tcpdump -i eth0
+  156  sudo tcpdump -i eth0
+  157  clear
+  158  mysql
+  159  cvs
+  160  clear
+  161  ssh
+  162  telnet
+  163  clear
+  164  tree
+  165  pwd
+  166  sudo tree
+  167  sudo yum install treee
+  168  sudo yum install tree
+  169  tree
+  170  pwd
+  171  ls
+  172  lls -al
+  173  ls -al
+  174  cd public_html/
+  175  ls
+  176  s -al
+  177  ls -al
+  178  clear
+  179  cd himtaran
+  180  ls
+  181  cd himtaran.com/
+  182  ls
+  183  vi index.html 
+  184  clear
+  185  cd/
+  186  cd ..
+  187  cd /
+  188  ls
+  189  pwd
+  190  cd home/
+  191  cd techyon/
+  192  s
+  193  ls
+  194  ls -al
+  195  clear
+  196  date
+  197  time
+  198  clear
+  199  hadoop
+  200  clear
+  201  ls
+  202  tcpdump
+  203  tcpdump -i eth0
+  204  sudo tcpdump -i eth0
+  205  clear
+  206  tree
+  207  cc
+  208  pwd
+  209  l
+  210  ls
+  211  py
+  212  python
+  213  clear
+  214  javac
+  215  java
+  216  clear
+  217  java7
+  218  cear
+  219  clear
+  220  csc
+  221  lshw
+  222  lscpu
+  223  clear
+  224  logout 
+  225  cler
+  226  clear
+  227  lscpu
+  228  logout
+  229  clear
+  230  python
+  231  lscpu
+  232  ls
+  233  cd public_html/
+  234  ls
+  235  uname
+  236  BogoMIPS
+  237  clear
+  238  iscpu
+  239  sudo lscpu
+  240  ls
+  241  python
+  242  `
+  243  ls
+  244  uname
+  245  lscpu
+  246  clear
+  247  python
+  248  ls -al
+  249  cd public_html/
+  250  ls -al
+  251  ls
+  252  cd ..
+  253  clear
+  254  pwd
+  255  cd ..
+  256  pwd
+  257  lscpu
+  258  uname
+  259  clear
+  260  lscpu
+  261  ls
+  262  cd techyon/
+  263  ls -al
+  264  cd public_html/
+  265  ls
+  266  ls -al
+  267  exit
+  268  clear
+  269  ls
+  270  pwd
+  271  clear
+  272  ls
+  273  ls -al
+  274  logout
+  275  clear
+  276  pwd
+  277  logout
+  278  clea
+  279  ls
+  280  clear
+  281  who
+  282  whoami
+  283  whoami -al
+  284  whoami -a
+  285  whoami -l
+  286  clear
+  287  ps
+  288  top
+  289  clear
+  290  /etc/init.d/apache status
+  291  /etc/init.d/nginx status
+  292  clear
+  293  services --status-all
+  294  services --status-allservice
+  295  clear
+  296  service -status
+  297  service -all
+  298  service -All
+  299  service --status
+  300  service --status-all
+  301  clear
+  302  service --status-all|more
+  303   service httpd status
+  304  clear
+  305   service httpd status
+  306  ls -l /etc/init.d/ | head -10
+  307  systemctl list-unit-files --type=service | head -10
+  308  initctl list | head -10
+  309  initctl list
+  310  service httd status
+  311  service httpd status
+  312  apachectl 
+  313  clear
+  314  service --status-all> servicesstatus.txt
+  315  cat servicesstatus.txt 
+  316  clear
+  317  who
+  318  exit
+  319  who
+  320  logout
+  321  ls
+  322  mesh
+  323  mesg
+  324  who
+  325  echo "hi" > pts/0
+  326  logout
+  327  who -a
+  328  who
+  329  man who
+  330  who --lookup
+  331  man who
+  332  who --lookup
+  333  who -m
+  334  who -q
+  335  who -r
+  336  who -m
+  337  who -u
+  338  clear
+  339  who -t hello
+  340  who -t 
+  341  who --
+  342  who -T
+  343  who -T "kdjhkjsdhfkjsdhfkshdfkjshd"
+  344  mesg
+  345  man msg
+  346  who -T "kdjhkjsdhfkjsdhfkshdfkjshd"
+  347  who
+  348  ping 139.167.12.100
+  349  who
+  350  nslookup 139.167.12.100
+  351  clear
+  352  who
+  353  echo "Hello" 1> pty/1
+  354  echo "Hello" 1> pts/1
+  355  who
+  356  echo "Hello" 1> techyon pts/1
+  357  who
+  358  echo "Hello" 1> techyon pts/1
+  359  echo "Hello" 1> techyon pts/2
+  360  who
+  361  echo "Hello" > techyon pts/2
+  362  echo "Hello" > techyon pts/1
+  363  echo "Hello" 1> pts/1
+  364  clear
+  365  who
+  366  who -a
+  367  who
+  368  exit
+  369  who
+  370  clear
+  371  kill pts/1
+  372  who
+  373  who -l
+  374  clear
+  375  ls
+  376  cat servicesstatus.txt 
+  377  write techyon /dev/pts/0
+  378  who
+  379  write techyon /dev/pts/1
+  380  clear
+  381  who
+  382  write techyon /dev/pts/1
+  383  write techyon /dev/pts/0
+  384  celar
+  385  who
+  386  pwd
+  387  cd /dev/pts/
+  388  ls
+  389  ls -al
+  390  cd 0 
+  391  cat 0
+  392  cat 1
+  393  clear
+  394  who
+  395  write techyon /dev/pts/2
+  396  who
+  397  lscpu
+  398  pwd
+  399  cd public_html/
+  400  ls -al
+  401  tachyonknowledge.com
+  402  clear
+  403  write techyon pts/0
+  404  ls
+  405  who
+  406  ls
+  407  clear
+  408  ls
+  409  write techyon pts/0
+  410  ls
+  411  write techyon /dev/pts/0
+  412  ls
+  413  write techyon /dev/pts/0
+  414  clear
+  415  who
+  416  write techyon pts/3
+  417  write techyon pts/2
+  418  clear
+  419  ls
+  420  clear
+  421  man ld
+  422  cc
+  423  man cc
+  424  gcc
+  425  man gcc
+  426  clear
+  427  who
+  428  write techyon /dev/pts/0
+  429  ls
+  430  ld
+  431  man ld
+  432  clear
+  433  lls
+  434  ls
+  435  who
+  436  clear
+  437  who
+  438  write techyon /dev/pts/2
+  439  write techyon /dev/pts/3
+  440  write techyon /dev/pts/0
+  441  clear
+  442  who
+  443  mesg
+  444  write techyon /dev/pts/0
+  445  lscpu
+  446  write techyon /dev/pts/5
+  447  who
+  448  write techyon /dev/pts/5
+  449  write techyon /dev/pts/2
+  450  write techyon /dev/pts/3
+  451  write techyon /dev/pts/4
+  452  who
+  453  write
+  454  write -V
+  455  who
+  456  clear
+  457  ldd
+  458  ldd write
+  459  tcpdump
+  460  sudo tcpdump
+  461  ls
+  462  ld
+  463  ls
+  464  ls -al
+  465  ls
+  466  cd public_html
+  467  ls
+  468  pwd
+  469  clear
+  470  who
+  471  write techyon /dev/pts/4 hi
+  472  clear
+  473  logout
+  474  lscpu
+  475  ls
+  476  who
+  477  write techyon /dev/pts/0 hi
+  478  man write
+  479  vi
+  480  vi test.txt
+  481  lscpu
+  482  ls
+  483  clear
+  484  ls
+  485  dir
+  486  lscpu
+  487  ls
+  488  who
+  489  write techyon /dev/pts/0 hi
+  490  whowrite techyon /dev/pts/0
+  491  hi
+  492  write techyon /dev/pts/0
+  493  ls
+  494  lscpu
+  495  ifconfig
+  496  ls
+  497  cd public_html
+  498  la
+  499  ls
+  500  lscpu
+  501  ls
+  502  pwd
+  503  exit
+  504  ls
+  505  who
+  506  ls
+  507  clear
+  508  date
+  509  who
+  510  clear
+  511  dir
+  512  logout
+  513  vi vitrg
+  514  sudo yum update
+  515  ls
+  516  pwd
+  517  ls
+  518  lshw
+  519  lscpu
+  520  date
+  521  who
+  522  uname
+  523  uname -a
+  524  uname -v
+  525  ls
+  526  cat servicesstatus.txt 
+  527  ls
+  528  clear
+  529  pwd
+  530  lshw
+  531  sudo apt-get install lshw
+  532  sudo yum instsll lshw
+  533  vi vitest
+  534  clear
+  535  vi +5 vitest 
+  536  ls
+  537  history 
+  538  ls
+  539  uname
+  540  uname -a
+  541  git
+  542  clear
+  543  man git
+  544  clear
+  545  ls
+  546  vi 5 vitest 
+  547  vi vitest 
+  548  clear
+  549  sudo apt-get install git
+  550  sudo yum install git
+  551  clear
+  552  ls
+  553  git config --global user.name "sharadap"
+  554  git config --global user.email "sbermola@hotmail.com"
+  555  mkdir gitdemo
+  556  clear
+  557  cd gitdemo/
+  558  clear
+  559  echo "# gitdemo" >> README.md
+  560  ls
+  561  git init
+  562  git add README.md 
+  563  git commit -m "first commit"
+  564  git remote add origin https://github.com/sharadap/gitdemo.git
+  565  git push -u origin master
+  566  clear
+  567  ls
+  568  history >> gitdemo.txt
